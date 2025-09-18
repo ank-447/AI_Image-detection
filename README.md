@@ -82,7 +82,7 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 
 ## 🙌 Author
 
-Created by [Rahul Kumar Gupta](https://github.com/Rahul2201020931)  
+Created by [Ankita ]  
 Made with ❤️ for AI research and DeepFake awareness.
 
 ---
